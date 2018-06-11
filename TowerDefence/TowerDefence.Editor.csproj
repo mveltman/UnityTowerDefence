@@ -344,6 +344,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="TowerDefence.csproj">
+      <Project>{F4849787-9D43-3104-EEB3-247690337ABA}</Project>
+      <Name>TowerDefence</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
     <Compile Include="C:\Users\mark\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.standardevents@1.0.13\Editor\Importer.cs" />
   </ItemGroup>
   <ItemGroup>
